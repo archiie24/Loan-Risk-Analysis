@@ -73,9 +73,3 @@ Dataset Source
 
 The dataset is sourced from Kaggle:  
 https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset
-
-Author  
-------
-
-Kumari Archita  
-Second-year undergraduate student with interests in data analytics, business intelligence, and applied machine learning.
